@@ -1,0 +1,25 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Nodejs server seed",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuro2000/Hello-World.git"
+  },
+  "author": "dcthng23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kuro2000/Hello-World/issues"
+  },
+  "homepage": "https://github.com/Kuro2000/Hello-World#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "winston": "^3.3.3"
+  }
+}
