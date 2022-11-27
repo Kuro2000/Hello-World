@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Kuro2000/Hello-World#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.4",
+    "nodemon": "^2.0.20",
     "winston": "^3.3.3"
   }
 }
